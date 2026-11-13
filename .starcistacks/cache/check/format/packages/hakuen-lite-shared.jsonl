@@ -1,0 +1,3 @@
+{"findings":[],"hash":"fa2cce6b095ef3bd5a34486f4a97af7235756ccaf2262b6915eae8f7044e3ece","path":"packages/hakuen-lite-shared/package.json","step":"prettier"}
+{"findings":[],"hash":"9f0b2ed3ffbba9a50ce13d7af2b2560354a87ec057595f34312a2e3f9bc16ef6","path":"packages/hakuen-lite-shared/tsconfig.build.json","step":"prettier"}
+{"findings":[],"hash":"77c2e20cd2eb7790a5e0c246b1fc837549d1e907842fc15167a9fbbd4b173542","path":"packages/hakuen-lite-shared/tsconfig.json","step":"prettier"}

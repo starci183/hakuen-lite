@@ -1,0 +1,9 @@
+{"data":{},"findings":[],"hash":"2177b24c65df1ad2a06cac9988cc4bf3bed712c6ca82017ef61793925756fb7f","path":".starcistacks/dev/README.md","step":"file-rules"}
+{"data":{},"findings":[],"hash":"61d1163cd66fa2215652b6066baa64f77f6fed05dd353827d29b6a3591f2bc79","path":".starcistacks/dev/environment.json","step":"file-rules"}
+{"data":{},"findings":[],"hash":"817c176b0c59d7281fb37191843d4e5e3cb9a9b76ccbc0c38f447271d8a9f402","path":".starcistacks/dev/infra/compose/compose.yaml","step":"file-rules"}
+{"data":{},"findings":[],"hash":"2649255dfc71555b7b0a1b51d733bb3875163879cef18eebebdaf8beb71c8fa7","path":".starcistacks/dev/runtime/env/KEYS.md","step":"file-rules"}
+{"data":{},"findings":[],"hash":"2d9f25e6298a4f661ba75aaca49173c799283747d03a40724e2cf441c70ad3a9","path":".starcistacks/dev/secrets/.gitkeep","step":"file-rules"}
+{"data":{},"findings":[],"hash":"c4982f1128245d6f3cd98a185158c2ccfb0e43ab08adb0b9fc51461377658d9d","path":".starcistacks/dev/seeds/data/.gitkeep","step":"file-rules"}
+{"data":{},"findings":[],"hash":"c4982f1128245d6f3cd98a185158c2ccfb0e43ab08adb0b9fc51461377658d9d","path":".starcistacks/dev/seeds/files/.gitkeep","step":"file-rules"}
+{"data":{},"findings":[],"hash":"3e6fafc2f2b5e9244dc38747c50b91c38894d547e8ce0de17e9181e1b608b76e","path":".starcistacks/dev/seeds/seeds.yaml","step":"file-rules"}
+{"data":{},"findings":[],"hash":"c4982f1128245d6f3cd98a185158c2ccfb0e43ab08adb0b9fc51461377658d9d","path":".starcistacks/dev/seeds/sql/.gitkeep","step":"file-rules"}

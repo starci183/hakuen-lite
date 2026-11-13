@@ -1,0 +1,3 @@
+{"findings":[],"hash":"155130e6176c75f41af06cdf1a0a56c948ed5d973d4e9c3cdcc2abf5e7d5ce24","path":"packages/hakuen-lite-shared/src/index.ts","step":"prettier"}
+{"findings":[],"hash":"d21f7759bc56799f95d99dd2c7cdb1841bd747adeb49d92cc5bd8d52e5b2f3c6","path":"packages/hakuen-lite-shared/src/project-name.spec.ts","step":"prettier"}
+{"findings":[],"hash":"62ae199ea40383c16848a817dbe505296798b9479dd74377a549e842a0af055f","path":"packages/hakuen-lite-shared/src/project-name.ts","step":"prettier"}

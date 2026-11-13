@@ -1,0 +1,6 @@
+{"data":{},"findings":[],"hash":"69bf8adce3f8b5e261e5a207f2f79f3bdb6a02b65ec149e5a5db2e5add1c354d","path":"packages/hakuen-lite-shared/package.json","step":"file-rules"}
+{"data":{},"findings":[],"hash":"a5d40b197360b607fbd2ba601f23cf2c1b5bea89cc9c9169abd6f2295e7923d5","path":"packages/hakuen-lite-shared/src/index.ts","step":"file-rules"}
+{"data":{},"findings":[],"hash":"98dc7cc24ae21ebd5d3007617fabeef83f183610d71bdc4667e959c076d1a31c","path":"packages/hakuen-lite-shared/src/project-name.spec.ts","step":"file-rules"}
+{"data":{},"findings":[],"hash":"775ac0a6e3260d437e837012eb1c7a2bb24e7e34442266bbe1faeaa5e80978d0","path":"packages/hakuen-lite-shared/src/project-name.ts","step":"file-rules"}
+{"data":{},"findings":[],"hash":"63dc234fabde9f5e24ad1dfc1fe7c60dcc0cd9486f8e9df90f335d9718436d0d","path":"packages/hakuen-lite-shared/tsconfig.build.json","step":"file-rules"}
+{"data":{},"findings":[],"hash":"1def871a4f5623d4ea5219430c9f7378fb3ce30ff0352aea2a36501363c4de02","path":"packages/hakuen-lite-shared/tsconfig.json","step":"file-rules"}

@@ -1,0 +1,4 @@
+{"findings":[],"hash":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855","path":".starcistacks/production/seeds/data/.gitkeep","step":"prettier"}
+{"findings":[],"hash":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855","path":".starcistacks/production/seeds/files/.gitkeep","step":"prettier"}
+{"findings":[],"hash":"2900d1d86b977c6f270c5cffee7573987d5a88e6298b7c4b7164a50ad92c2666","path":".starcistacks/production/seeds/seeds.yaml","step":"prettier"}
+{"findings":[],"hash":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855","path":".starcistacks/production/seeds/sql/.gitkeep","step":"prettier"}

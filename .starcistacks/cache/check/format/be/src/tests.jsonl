@@ -1,0 +1,3 @@
+{"findings":[],"hash":"b3e6d6aa1721e1ff628fb08dc26e73c212f28d5877bece6abf48022889e1b352","path":"be/src/tests/fixtures/builders/api.builder.ts","step":"prettier"}
+{"findings":[],"hash":"ebe4c929fa8780b8b59a1ca5ca0946ddbae0eccd2c40651da749d1913b962f10","path":"be/src/tests/fixtures/builders/identity.builder.ts","step":"prettier"}
+{"findings":[],"hash":"051c09d2e086e6b75e867e9ee0e7a7afb745527529adea21204701fea3305291","path":"be/src/tests/tsconfig.json","step":"prettier"}
