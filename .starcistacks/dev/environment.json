@@ -1,0 +1,6 @@
+{
+  "environment": "dev",
+  "provider": "postgres",
+  "project": "hakuen-lite",
+  "runtime": "docker-swarm"
+}

@@ -1,0 +1,29 @@
+{
+  "hfs": 3,
+  "kind": "app",
+  "edition": "lite",
+  "project": "hakuen-lite",
+  "sides": {
+    "be": {
+      "apps": [
+        {
+          "name": "api",
+          "kind": "api",
+          "contract": "rest"
+        }
+      ],
+      "kinds": ["api"],
+      "connections": [
+        {
+          "name": "primary",
+          "envPrefix": "PRIMARY_DB",
+          "owner": "api",
+          "isolation": "schema",
+          "provider": "postgres"
+        }
+      ],
+      "optionalSlots": ["be.contract.openapi"]
+    },
+    "packages": {}
+  }
+}

@@ -1,0 +1,3 @@
+creation_rules:
+  - path_regex: \.starcistacks[/\\][^/\\]+[/\\]secrets[/\\][^/\\]+\.enc(?:\.yaml)?$
+    age: age14v54s7jeg23ltuahmxelvqm2sgv4p8az32ttzzahyd9qlmx69e2s697hwf

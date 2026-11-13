@@ -1,0 +1,17 @@
+import { Inject, type InjectionToken } from "@nestjs/common"
+import { Reflector } from "@nestjs/core"
+
+/** A parameter decorator that remembers the type `T` it injects, so a lint rule can compare it with the parameter annotation. */
+export type TypedParameterDecorator<T> = ParameterDecorator & {
+    /** Never set at run time: it carries `T` so the lint rule can compare it with the parameter annotation. */
+    readonly __injects?: T
+}
+
+/** A decorator a door carries on its method or its class; one built from several metadata decorators is typed with it. */
+export type DoorDecorator = MethodDecorator & ClassDecorator
+
+/** Builds the parameter decorator that injects `token`, typed with the value it injects. Every `Inject<Thing>()` is built with it. */
+export const injector = <T>(token: InjectionToken): TypedParameterDecorator<T> => Inject(token)
+
+/** Injects the framework Reflector that guards read handler metadata with. Parameter type: Reflector. */
+export const InjectReflector = (): TypedParameterDecorator<Reflector> => injector<Reflector>(Reflector)
