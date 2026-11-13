@@ -16,6 +16,7 @@ coverage:
           - "be/src/modules/integrations/*/**"
           - "be/src/modules/platform/*/**"
           - "be/src/modules/projections/*/**"
+          - "packages/hakuen-core/src/**"
           - "packages/hakuen-lite-shared/src/**"
     patch:
       default:
@@ -26,6 +27,7 @@ coverage:
           - "be/src/modules/integrations/*/**"
           - "be/src/modules/platform/*/**"
           - "be/src/modules/projections/*/**"
+          - "packages/hakuen-core/src/**"
           - "packages/hakuen-lite-shared/src/**"
 component_management:
   default_rules:
@@ -50,6 +52,10 @@ component_management:
       paths:
         - "be/src/modules/platform/*/**"
         - "be/src/modules/projections/*/**"
+    - component_id: package-hakuen-core
+      name: package-hakuen-core
+      paths:
+        - "packages/hakuen-core/src/**"
     - component_id: package-hakuen-lite-shared
       name: package-hakuen-lite-shared
       paths:
@@ -154,6 +160,9 @@ ignore:
   - "be/tsconfig.build.json"
   - "be/tsconfig.json"
   - "fe/**"
+  - "packages/hakuen-core/src/**/index.ts"
+  - "packages/hakuen-core/src/**/*.types.ts"
+  - "packages/hakuen-core/src/**/*-types.ts"
   - "packages/hakuen-lite-shared/src/**/index.ts"
   - "packages/hakuen-lite-shared/src/**/*.types.ts"
   - "packages/hakuen-lite-shared/src/**/*-types.ts"

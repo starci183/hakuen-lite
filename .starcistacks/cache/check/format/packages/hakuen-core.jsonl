@@ -1,0 +1,5 @@
+{"findings":[],"hash":"a031fa0695e85fd2ca3a7ed4df8b1d3391460028d4a36d358f18de7dd755d9bc","path":"packages/hakuen-core/LEGACY.md","step":"prettier"}
+{"findings":[],"hash":"8a90bf4b45b0498580772d00c215c1fe2c4528f3dd6cf21bd7490748ece37395","path":"packages/hakuen-core/README.md","step":"prettier"}
+{"findings":[],"hash":"3043ecb718381eae2b17691f35208da10e0b2226e659c5ec0f5f9fedca01dafb","path":"packages/hakuen-core/package.json","step":"prettier"}
+{"findings":[],"hash":"9f0b2ed3ffbba9a50ce13d7af2b2560354a87ec057595f34312a2e3f9bc16ef6","path":"packages/hakuen-core/tsconfig.build.json","step":"prettier"}
+{"findings":[],"hash":"77c2e20cd2eb7790a5e0c246b1fc837549d1e907842fc15167a9fbbd4b173542","path":"packages/hakuen-core/tsconfig.json","step":"prettier"}

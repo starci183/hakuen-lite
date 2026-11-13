@@ -3,16 +3,18 @@
 {"name":"file:.prettierignore","sha256":"49fb39ee1c0135043dae9e526e28c01ba900c1b269bbe4496e2c4719d22b7ce5"}
 {"name":"file:.prettierrc","sha256":"7940273320387409c9d24de8ad5f964a8fa889424fa4ce47a67efa698c1f2c25"}
 {"name":"file:be/eslint.config.mjs","sha256":"75ea5555585f51b7cd57ef98fb2bd67694d57337f7ecb84b6b9b885c16d0c990"}
-{"name":"file:be/jest.config.js","sha256":"b98ef9ab04fa14926f31b0569de4d2de8c4c703f597fe036428ad60ec814a0ad"}
+{"name":"file:be/jest.config.js","sha256":"29231367368215ee119096e1a1455f0f542f5faae5a7bc359b50f7e4b378bf15"}
 {"name":"file:be/src/tests/tsconfig.json","sha256":"051c09d2e086e6b75e867e9ee0e7a7afb745527529adea21204701fea3305291"}
 {"name":"file:be/tsconfig.build.json","sha256":"543063d065660243055aecc9ba660ec2194c2ffa8aefa9472579db2c1a0100ca"}
 {"name":"file:be/tsconfig.json","sha256":"8c5c1ef6864461d6669857fb111d121b8e75f9ff0525683132573c8352feb941"}
-{"name":"file:codecov.yml","sha256":"b5d832c98f35e3dbd3aededf2387dc5076b31ea1112966922d957c82021d5c15"}
+{"name":"file:codecov.yml","sha256":"83ad27033b25970660ddcf62cd7a05ab8e7e91b503929f09f8b03147d2e210c6"}
 {"name":"file:eslint.config.mjs","sha256":"99a42afd63a281ee8a34b3c96abbfc443e50f65b83f42b18638d349a965371f9"}
 {"name":"file:hfs.json","sha256":"e7f5711b5ebff7cd944c1f2f8831428c331dc997984d9f100ba3d1d6c8e26ed6"}
+{"name":"file:packages/hakuen-core/tsconfig.build.json","sha256":"9f0b2ed3ffbba9a50ce13d7af2b2560354a87ec057595f34312a2e3f9bc16ef6"}
+{"name":"file:packages/hakuen-core/tsconfig.json","sha256":"77c2e20cd2eb7790a5e0c246b1fc837549d1e907842fc15167a9fbbd4b173542"}
 {"name":"file:packages/hakuen-lite-shared/tsconfig.build.json","sha256":"9f0b2ed3ffbba9a50ce13d7af2b2560354a87ec057595f34312a2e3f9bc16ef6"}
 {"name":"file:packages/hakuen-lite-shared/tsconfig.json","sha256":"77c2e20cd2eb7790a5e0c246b1fc837549d1e907842fc15167a9fbbd4b173542"}
-{"name":"file:sonar-project.properties","sha256":"65b871b06c37562ec03c958716a13dae3d0f8ae1c54e447bc1ecc28c51982964"}
+{"name":"file:sonar-project.properties","sha256":"8382fe451f93b94f18789a1dd7b2ac25ea82a4f3df3015f7f617bce4fcd6f40f"}
 {"name":"hfs","sha256":"e21b6959286d3dbe0b43d0d2b4bc99bc6d30855f4d22c26f91eb0dcaf171a95d"}
 {"name":"lock:format","sha256":"275d51588fe77bd48bc71d50a0fee3ba59de74b5b462fb49d464a1569040b0ba"}
 {"name":"lock:lint","sha256":"52dfc690bcf39727c2168f3f016cc42f81382887507ebce67408c993c9d8110c"}
@@ -30,4 +32,5 @@
 {"name":"pkg:@starci/tsconfig","sha256":"1b90ae7e9de8f30d099a9aec149038ac08455e5c11114db795412e1175955f0d"}
 {"name":"shape:gallery/package.json","sha256":"6d4e37c0b49abfdccf7e32ffddc6cbad6b891e463674431805f1e563c1bb70bc"}
 {"name":"shape:package.json","sha256":"8b77c051a83991aa6343b8e432bab6377e8d0861f4ff5767da71040d4de41af2"}
+{"name":"shape:packages/hakuen-core/package.json","sha256":"d90f5c37da3ed8e37641dd44675df33f4f3c8a8b5feb0e31504824509dc63c11"}
 {"name":"shape:packages/hakuen-lite-shared/package.json","sha256":"bb94ff7a504aa29c3623b3041618cc571c19a53168e39957282ee0953e61fee7"}

@@ -1,0 +1,24 @@
+{
+  "agents": {
+    "marketing": {
+      "label": "Marketing",
+      "job": "Plans and drafts posts and sends each draft to a person for approval before it goes out."
+    },
+    "editor": {
+      "label": "Video editor",
+      "job": "Cuts short videos from an approved script and media; never publishes on its own."
+    },
+    "sales": {
+      "label": "Sales & Booking",
+      "job": "Advises guests, quotes and holds rooms and spa slots from the booking system's live data."
+    },
+    "care": {
+      "label": "Guest care",
+      "job": "Looks after staying and departed guests; hands complaints to a person."
+    },
+    "books": {
+      "label": "Books",
+      "job": "Reconciles incoming money with folios, proposes invoices and reminds tax dates; never estimates missing figures."
+    }
+  }
+}

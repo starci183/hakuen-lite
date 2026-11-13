@@ -1,0 +1,11 @@
+{"data":{},"findings":[],"hash":"b2c5faabbe1cf615f2d10021b16bae9677b9cfae8119a8a72f220262a39a79e8","path":"packages/hakuen-core/LEGACY.md","step":"file-rules"}
+{"data":{},"findings":[],"hash":"c25703f54e83f8e99e0a94a2dbce9f8c726e442232f201dbefb176ef0ebb8de6","path":"packages/hakuen-core/README.md","step":"file-rules"}
+{"data":{},"findings":[],"hash":"c0f2b53cbaa9af22084c186859a4c8e71904cb66b0d1a5568244a9c1423dc267","path":"packages/hakuen-core/package.json","step":"file-rules"}
+{"data":{},"findings":[],"hash":"88c2db85177ff7e0befb7cb3c9bab338a7b79a9b0fb186ff58b8b3cb9b29200f","path":"packages/hakuen-core/src/index.ts","step":"file-rules"}
+{"data":{},"findings":[],"hash":"9c866026103af21c881128421c8a3b691a88b6fa84826464c936c2a4f863c50f","path":"packages/hakuen-core/src/messages/en.json","step":"file-rules"}
+{"data":{},"findings":[],"hash":"0213aa560921da0361656329eb1b3d5e0af094fa6d529f7c1d151e56baa37fe7","path":"packages/hakuen-core/src/messages/vi.json","step":"file-rules"}
+{"data":{},"findings":[],"hash":"d1a0f20401e6b35f988adc4f748b33ebb1d1e29bddc40d59c76d93116cc55d44","path":"packages/hakuen-core/src/plugin.spec.ts","step":"file-rules"}
+{"data":{},"findings":[],"hash":"496d31afb2cd682c8a4c72f39335830291e076a319ee10ab42994b2c61212131","path":"packages/hakuen-core/src/plugin.ts","step":"file-rules"}
+{"data":{},"findings":[],"hash":"87ca99eb9188fc7d61a4773aecdc744b2341e4a40835a0f1ff149f5064832822","path":"packages/hakuen-core/src/plugin.types.ts","step":"file-rules"}
+{"data":{},"findings":[],"hash":"63dc234fabde9f5e24ad1dfc1fe7c60dcc0cd9486f8e9df90f335d9718436d0d","path":"packages/hakuen-core/tsconfig.build.json","step":"file-rules"}
+{"data":{},"findings":[],"hash":"1def871a4f5623d4ea5219430c9f7378fb3ce30ff0352aea2a36501363c4de02","path":"packages/hakuen-core/tsconfig.json","step":"file-rules"}

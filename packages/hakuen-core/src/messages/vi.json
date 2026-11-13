@@ -1,0 +1,24 @@
+{
+  "agents": {
+    "marketing": {
+      "label": "Marketing",
+      "job": "Lên kế hoạch, soạn bài đăng và gửi nháp cho người duyệt trước khi đăng."
+    },
+    "editor": {
+      "label": "Dựng video",
+      "job": "Dựng video ngắn từ kịch bản và tư liệu đã duyệt; không tự đăng."
+    },
+    "sales": {
+      "label": "Bán hàng & Đặt chỗ",
+      "job": "Tư vấn, báo giá và giữ chỗ phòng, spa cho khách theo dữ liệu sống của hệ thống đặt phòng."
+    },
+    "care": {
+      "label": "Chăm sóc khách",
+      "job": "Chăm sóc khách đang lưu trú và sau khi trả phòng; khiếu nại chuyển cho người."
+    },
+    "books": {
+      "label": "Kế toán",
+      "job": "Đối soát tiền về với folio, đề nghị xuất hóa đơn và nhắc hạn thuế; không ước tính số liệu thiếu."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@hakuen-lite/hakuen-core",
+  "version": "0.0.0",
+  "private": true,
+  "description": "HAKUEN Hotel & Spa's own business on the NIVO platform: a private plugin package (packageName hakuen-core, enterprise identifier hakuen) holding the shape of the shop's agents as a composition of NIVO's functional modules and providers. No engine, tool, api, table or shop data: the shop's values live in the private hakuen-lite-data repository.",
+  "nivo": {
+    "plugin": true
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc --noEmit -p tsconfig.json"
+  }
+}

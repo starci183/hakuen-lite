@@ -38,9 +38,12 @@ module.exports = require("@starci/jest-preset").starciJestConfig({
         ],
     },
     packages: {
-        folders: ["packages/hakuen-lite-shared"],
-        files: ["packages/hakuen-lite-shared/src/**/*.ts"],
+        folders: ["packages/hakuen-core", "packages/hakuen-lite-shared"],
+        files: ["packages/hakuen-core/src/**/*.ts", "packages/hakuen-lite-shared/src/**/*.ts"],
         excludes: [
+            "packages/hakuen-core/src/**/index.ts",
+            "packages/hakuen-core/src/**/*.types.ts",
+            "packages/hakuen-core/src/**/*-types.ts",
             "packages/hakuen-lite-shared/src/**/index.ts",
             "packages/hakuen-lite-shared/src/**/*.types.ts",
             "packages/hakuen-lite-shared/src/**/*-types.ts",

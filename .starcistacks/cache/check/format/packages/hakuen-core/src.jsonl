@@ -1,0 +1,6 @@
+{"findings":[],"hash":"727e6cf31e398c7b2e07aa465a2b270180c8c1de179c752582736d6df1ff8dcd","path":"packages/hakuen-core/src/index.ts","step":"prettier"}
+{"findings":[],"hash":"542f5218ecca94543158760c4a738bd30fd7d7077af413a27dad42cba70faa72","path":"packages/hakuen-core/src/messages/en.json","step":"prettier"}
+{"findings":[],"hash":"a5d000147c2fb9c2650e98c2926d05098407279fcbea17bae1a43181d175b54d","path":"packages/hakuen-core/src/messages/vi.json","step":"prettier"}
+{"findings":[],"hash":"333f1151530dde13e57f9905780bcbc2667a471d889e58626f7ac1004cd36f10","path":"packages/hakuen-core/src/plugin.spec.ts","step":"prettier"}
+{"findings":[],"hash":"925beb181a198fe7ccdbb1dabfc437b1e3297e470daeab56646c7721feca896a","path":"packages/hakuen-core/src/plugin.ts","step":"prettier"}
+{"findings":[],"hash":"e0a9a0a26c1475eb15868eb0ebed9feda95ee1564dd37cbd1e0696d72fb3a876","path":"packages/hakuen-core/src/plugin.types.ts","step":"prettier"}
